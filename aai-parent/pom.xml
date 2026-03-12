@@ -43,7 +43,7 @@ limitations under the License.
     <aai.release.version>${aai.common.version}</aai.release.version>
     <aai.schema.service.version>1.12.7</aai.schema.service.version>
 
-    <antlr.version>4.11.1</antlr.version>
+    <antlr.version>4.13.2</antlr.version>
     <commons.beanutils.version>1.9.4</commons.beanutils.version>
     <commons.cli.version>1.5.0</commons.cli.version>
     <commons.compress.version>1.27.1</commons.compress.version>
