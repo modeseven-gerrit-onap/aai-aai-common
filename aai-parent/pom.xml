@@ -78,7 +78,7 @@ limitations under the License.
         Please don't upgrade to 2.3.0 or above for nexus iq or security scans
         as it could potentially break our code
       -->
-    <spring.boot.version>3.2.12</spring.boot.version>
+    <spring.boot.version>4.0.4</spring.boot.version>
     <spring-framework.version>6.1.21</spring-framework.version>
     <jersey.version>3.1.11</jersey.version>
     <netty.version>4.1.130.Final</netty.version>
